@@ -1,12 +1,12 @@
-P_p1                 normal               3.37923577236328,.001425314            
-t0_p1                normal               2459714.193,0.01        
+P_p1                 normal               3.37923577236328,.00028          
+t0_p1                normal               2459420.207144,.0036     
 r1_p1              	 uniform	          0.5897240499,0.3780629476
 r2_p1              	 uniform        	  0.1384469152,0.1233560751       
 q1_TESS              uniform              0.0,1.0             
 q2_TESS              uniform              0.0,1.0             
 ecc_p1               fixed                0.0                 
 omega_p1             fixed                90.0                
-rho                  normal               1.602197e3,0.25e3     
+rho                  normal               1.602197e3,0.34e3     
 mdilution_TESS       fixed                1.0                 
 mflux_TESS           normal               0.0,0.1             
 sigma_w_TESS         loguniform           0.1,1000.0          
