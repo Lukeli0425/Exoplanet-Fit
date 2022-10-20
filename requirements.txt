@@ -1,0 +1,6 @@
+numpy
+pandas
+matplotlib
+juliet
+h5py
+lightkurve
