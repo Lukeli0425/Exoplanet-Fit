@@ -1,6 +1,7 @@
+# python=3.8
 numpy
 pandas
 matplotlib
-juliet
+juliet # pip
 h5py
 lightkurve

@@ -9,4 +9,4 @@ omega_p1             fixed                90.0
 rho                  normal               1602.197,250.0      
 mdilution_TESS       fixed                1.0                 
 mflux_TESS           normal               0.0,0.1             
-sigma_w_TESS         loguniform           0.1,1000.0          
+sigma_w_TESS         loguniform           0.1,1000.0  
